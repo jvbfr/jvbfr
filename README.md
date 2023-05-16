@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm João Freitas</h1>
 <h3 align="center">A passionate Data Scientist from Brazil</h3>
 
-- 🔭 I’m currently working on **Oncase**
+- 🔭 I’m currently working on **DBC Company**
 
-- 🌱 I’m currently learning **Decision forests for manifold learning**
+- 🌱 I’m currently learning **Autoencoders for Deep Embedded Clustering**
 
 - 💬 Ask me about **python, machine learning and econometrics**
 
-- 📫 How to reach me **jvbf97@gmail.com**
+- 📫 How to reach me **jvbfwork@gmail.com**
 
 
 <p align="left">
